@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitesh pal
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently working on MERN stack
 - 💞️ I’m looking to collaborate on urban company
 - 📫 How to reach me ... gmail-(niteshpal78346@gmail.com)
 - 😄 Pronouns:Nitesh pal
