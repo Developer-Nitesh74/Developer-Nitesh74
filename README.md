@@ -24,25 +24,54 @@
 ```javascript
 const nitesh = {
     pronouns: "he/him",
-    code: ["JavaScript", "Python"],
+    currentGigs: ["Eduresearch", "Ecademictube"],
+    stack: ["MongoDB", "Express", "React", "Node.js"],
     askMeAbout: ["web dev", "MERN stack", "AI side-projects"],
     currentFocus: "building things that don't break (mostly) 😅",
     funFact: "built my own Jarvis, now it judges my code silently"
 };
 ```
 
-- 🔭 Currently cooking something new with **MERN stack**
-- 🌱 Learning new stuff every day, one bug at a time 🐛
-- 💞️ Down to collaborate on web + AI projects
+- 🔭 Currently freelancing with **Eduresearch** & **Ecademictube**, building with the **MERN stack**
+- 🌱 Always learning new tools and best practices in web development
+- 💞️ Open to collaborating on interesting web & AI projects
 - 📫 Slide into my inbox: **niteshpal78346@gmail.com**
-- ⚡ Fun fact: my rubber duck has debugged more code than most humans
+- ⚡ Fun fact: I built my own AI voice assistant — check out **Jarvis** below!
 
 ---
 
-### 🛠️ My Stack
+### 🌐 Socials
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,python,git,github,vscode&theme=dark" />
+  <a href="https://instagram.com/nitesh_pal__74"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nitesh-pal-114058306/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:niteshpal78346@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 </p>
 
 ---
@@ -78,20 +107,33 @@ const nitesh = {
 
 ---
 
-### 📊 GitHub Stats (the real flex)
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Developer-Nitesh74&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Nitesh74&layout=compact&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Developer-Nitesh74&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Developer-Nitesh74&theme=radical&hide_border=false" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Nitesh74&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+### 🔥 Commit Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Nitesh74&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Nitesh74&theme=react-dark&hide_border=true" />
 </p>
 
 <!-- Contribution Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Developer-Nitesh74/Developer-Nitesh74/output/github-contribution-grid-snake.svg" />
+</p>
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
